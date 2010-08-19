@@ -1,8 +1,9 @@
 openssh
-sudo
 rsync
 unzip
 p7zip
 htop
 screen
 nmap
+vim
+terminus-font
