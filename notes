@@ -1,0 +1,7 @@
+# From wiki 'Pacman Tips'
+
+Backing up installed packages
+ $ comm -23 <(pacman -Qeq) <(pacman -Qmq) > pkglist
+
+Install pakages form file
+ # pacman -S $(< pkglist)
