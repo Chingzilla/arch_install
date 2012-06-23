@@ -1,10 +1,7 @@
-rtorrent
-ncdu
-typespeed
 cmatrix
-hexcurse
-truecrypt
-ntfs-3g
-dosfstools
-tor
+ncdu
 privoxy
+rtorrent
+tor
+truecrypt
+typespeed

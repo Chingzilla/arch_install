@@ -1,4 +1,11 @@
-python
-python-pip
+abs
+asciidoc
+dia
 git
-
+ipython
+ipython2
+python2-nose
+python2-pip
+python-markdown
+python-nose
+python-pip
